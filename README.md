@@ -12,6 +12,6 @@ Skills: Python / C / HTML / CSS / JavaScript / Webflow / Wordpress / Java / SQL
 
 To see the learning I have done, please view my projects where I showcase everything that I have been learning to become a better programmer. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tommynguyenn53) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tommy-nguyen-bab28125a/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail.svg' alt='email' height='40'>](mailto:tommy.nguyenn53@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tommynguyenn53) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tommy-nguyen-bab28125a/) &nbsp; [<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F296084%2Femail&psig=AOvVaw0T23likHLwDyNhTgBihGsE&ust=1733553290269000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjsgLTDkooDFQAAAAAdAAAAABAJ' alt='email' height='40'>](mailto:tommy.nguyenn53@gmail.com)
 
 
