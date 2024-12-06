@@ -10,7 +10,7 @@ Skills: Python / C / HTML / CSS / Webflow / Wordpress / Java / SQL
 - 🌱 I’m currently learning HTML, CSS, Python, Java, SQL
 - 👯 I’m looking to collaborate on anyone who loves to program 
 
-To see the learning I have done, please view my repository where I showcase everything that I have been learning to become a better programmer. 
+To see the learning I have done, please view my projects where I showcase everything that I have been learning to become a better programmer. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tommynguyenn53)  
 
