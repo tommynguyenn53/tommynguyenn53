@@ -8,7 +8,7 @@ Skills: Python / C / HTML / CSS / JavaScript / Webflow / Wordpress / Java / SQL
 
 - 🔭 I’m currently working on becoming a programmer.  
 - 🌱 I’m currently learning HTML, CSS, Python, Java, SQL, JavaScript
-- 👯 I’m looking to collaborate on anyone who loves to program 
+- 👯 I’m looking to collaborate with anyone who loves to program 
 
 To see the learning I have done, please view my projects where I showcase everything that I have been learning to become a better programmer. 
 
